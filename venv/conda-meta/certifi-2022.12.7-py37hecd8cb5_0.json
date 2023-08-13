@@ -6,8 +6,7 @@
   "depends": [
     "python >=3.7,<3.8.0a0"
   ],
-  "extracted_package_dir": "/Users/yshaik/opt/anaconda3/pkgs/certifi-2022.12.7-py37hecd8cb5_0",
-  "features": "",
+  "extracted_package_dir": "/Users/yshaik/anaconda3/pkgs/certifi-2022.12.7-py37hecd8cb5_0",
   "files": [
     "lib/python3.7/site-packages/certifi-2022.12.7.dist-info/INSTALLER",
     "lib/python3.7/site-packages/certifi-2022.12.7.dist-info/LICENSE",
@@ -32,12 +31,12 @@
   "license": "MPL-2.0",
   "license_family": "Other",
   "link": {
-    "source": "/Users/yshaik/opt/anaconda3/pkgs/certifi-2022.12.7-py37hecd8cb5_0",
+    "source": "/Users/yshaik/anaconda3/pkgs/certifi-2022.12.7-py37hecd8cb5_0",
     "type": 1
   },
   "md5": "f00af3f4f7e4ae5caa4a4c54cb2c9a58",
   "name": "certifi",
-  "package_tarball_full_path": "/Users/yshaik/opt/anaconda3/pkgs/certifi-2022.12.7-py37hecd8cb5_0.conda",
+  "package_tarball_full_path": "/Users/yshaik/anaconda3/pkgs/certifi-2022.12.7-py37hecd8cb5_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -160,7 +159,6 @@
   "size": 154860,
   "subdir": "osx-64",
   "timestamp": 1671487803877,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/osx-64/certifi-2022.12.7-py37hecd8cb5_0.conda",
   "version": "2022.12.7"
 }

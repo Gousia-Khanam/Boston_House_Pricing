@@ -6,8 +6,7 @@
   "depends": [
     "python >=3.7,<3.8.0a0"
   ],
-  "extracted_package_dir": "/Users/yshaik/opt/anaconda3/pkgs/wheel-0.38.4-py37hecd8cb5_0",
-  "features": "",
+  "extracted_package_dir": "/Users/yshaik/anaconda3/pkgs/wheel-0.38.4-py37hecd8cb5_0",
   "files": [
     "bin/wheel",
     "lib/python3.7/site-packages/wheel-0.38.4-py3.7.egg-info/PKG-INFO",
@@ -58,12 +57,12 @@
   "license": "MIT",
   "license_family": "MIT",
   "link": {
-    "source": "/Users/yshaik/opt/anaconda3/pkgs/wheel-0.38.4-py37hecd8cb5_0",
+    "source": "/Users/yshaik/anaconda3/pkgs/wheel-0.38.4-py37hecd8cb5_0",
     "type": 1
   },
   "md5": "b7b5890f8fe31467d91798b7d529d265",
   "name": "wheel",
-  "package_tarball_full_path": "/Users/yshaik/opt/anaconda3/pkgs/wheel-0.38.4-py37hecd8cb5_0.conda",
+  "package_tarball_full_path": "/Users/yshaik/anaconda3/pkgs/wheel-0.38.4-py37hecd8cb5_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -370,7 +369,6 @@
   "size": 66392,
   "subdir": "osx-64",
   "timestamp": 1676621966829,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/osx-64/wheel-0.38.4-py37hecd8cb5_0.conda",
   "version": "0.38.4"
 }

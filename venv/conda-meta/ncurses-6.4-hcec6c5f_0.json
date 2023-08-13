@@ -4,8 +4,7 @@
   "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
   "constrains": [],
   "depends": [],
-  "extracted_package_dir": "/Users/yshaik/opt/anaconda3/pkgs/ncurses-6.4-hcec6c5f_0",
-  "features": "",
+  "extracted_package_dir": "/Users/yshaik/anaconda3/pkgs/ncurses-6.4-hcec6c5f_0",
   "files": [
     "bin/captoinfo",
     "bin/clear",
@@ -2976,12 +2975,12 @@
   "license": "MIT AND X11",
   "license_family": "MIT",
   "link": {
-    "source": "/Users/yshaik/opt/anaconda3/pkgs/ncurses-6.4-hcec6c5f_0",
+    "source": "/Users/yshaik/anaconda3/pkgs/ncurses-6.4-hcec6c5f_0",
     "type": 1
   },
   "md5": "0214d1ee980e217fabc695f1e40662aa",
   "name": "ncurses",
-  "package_tarball_full_path": "/Users/yshaik/opt/anaconda3/pkgs/ncurses-6.4-hcec6c5f_0.conda",
+  "package_tarball_full_path": "/Users/yshaik/anaconda3/pkgs/ncurses-6.4-hcec6c5f_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -22946,7 +22945,6 @@
   "size": 1042667,
   "subdir": "osx-64",
   "timestamp": 1674734102055,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/osx-64/ncurses-6.4-hcec6c5f_0.conda",
   "version": "6.4"
 }

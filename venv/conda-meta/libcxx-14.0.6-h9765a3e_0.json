@@ -4,8 +4,7 @@
   "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
   "constrains": [],
   "depends": [],
-  "extracted_package_dir": "/Users/yshaik/opt/anaconda3/pkgs/libcxx-14.0.6-h9765a3e_0",
-  "features": "",
+  "extracted_package_dir": "/Users/yshaik/anaconda3/pkgs/libcxx-14.0.6-h9765a3e_0",
   "files": [
     "include/c++/v1/__algorithm/adjacent_find.h",
     "include/c++/v1/__algorithm/all_of.h",
@@ -561,12 +560,12 @@
   "license": "Apache-2.0 WITH LLVM-exception",
   "license_family": "Apache",
   "link": {
-    "source": "/Users/yshaik/opt/anaconda3/pkgs/libcxx-14.0.6-h9765a3e_0",
+    "source": "/Users/yshaik/anaconda3/pkgs/libcxx-14.0.6-h9765a3e_0",
     "type": 1
   },
   "md5": "387757bb354ae9042370452cd0fb5627",
   "name": "libcxx",
-  "package_tarball_full_path": "/Users/yshaik/opt/anaconda3/pkgs/libcxx-14.0.6-h9765a3e_0.conda",
+  "package_tarball_full_path": "/Users/yshaik/anaconda3/pkgs/libcxx-14.0.6-h9765a3e_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -4404,7 +4403,6 @@
   "size": 990864,
   "subdir": "osx-64",
   "timestamp": 1662620489455,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/osx-64/libcxx-14.0.6-h9765a3e_0.conda",
   "version": "14.0.6"
 }

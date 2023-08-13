@@ -4,8 +4,7 @@
   "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
   "constrains": [],
   "depends": [],
-  "extracted_package_dir": "/Users/yshaik/opt/anaconda3/pkgs/ca-certificates-2023.05.30-hecd8cb5_0",
-  "features": "",
+  "extracted_package_dir": "/Users/yshaik/anaconda3/pkgs/ca-certificates-2023.05.30-hecd8cb5_0",
   "files": [
     "ssl/cacert.pem",
     "ssl/cert.pem"
@@ -16,12 +15,12 @@
   "license": "MPL-2.0",
   "license_family": "Other",
   "link": {
-    "source": "/Users/yshaik/opt/anaconda3/pkgs/ca-certificates-2023.05.30-hecd8cb5_0",
+    "source": "/Users/yshaik/anaconda3/pkgs/ca-certificates-2023.05.30-hecd8cb5_0",
     "type": 1
   },
   "md5": "1ab4b0336a311064d05fdd2484df5336",
   "name": "ca-certificates",
-  "package_tarball_full_path": "/Users/yshaik/opt/anaconda3/pkgs/ca-certificates-2023.05.30-hecd8cb5_0.conda",
+  "package_tarball_full_path": "/Users/yshaik/anaconda3/pkgs/ca-certificates-2023.05.30-hecd8cb5_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -45,7 +44,6 @@
   "size": 123958,
   "subdir": "osx-64",
   "timestamp": 1686154796792,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/osx-64/ca-certificates-2023.05.30-hecd8cb5_0.conda",
   "version": "2023.05.30"
 }

@@ -4,8 +4,7 @@
   "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
   "constrains": [],
   "depends": [],
-  "extracted_package_dir": "/Users/yshaik/opt/anaconda3/pkgs/xz-5.4.2-h6c40b1e_0",
-  "features": "",
+  "extracted_package_dir": "/Users/yshaik/anaconda3/pkgs/xz-5.4.2-h6c40b1e_0",
   "files": [
     "bin/lzcat",
     "bin/lzcmp",
@@ -165,12 +164,12 @@
   "license": "LGPL-2.1-or-later and GPL-2.0-or-later",
   "license_family": "GPL2",
   "link": {
-    "source": "/Users/yshaik/opt/anaconda3/pkgs/xz-5.4.2-h6c40b1e_0",
+    "source": "/Users/yshaik/anaconda3/pkgs/xz-5.4.2-h6c40b1e_0",
     "type": 1
   },
   "md5": "5e546d3c9765b4441e511804d58f6e3f",
   "name": "xz",
-  "package_tarball_full_path": "/Users/yshaik/opt/anaconda3/pkgs/xz-5.4.2-h6c40b1e_0.conda",
+  "package_tarball_full_path": "/Users/yshaik/anaconda3/pkgs/xz-5.4.2-h6c40b1e_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -1208,7 +1207,6 @@
   "size": 380669,
   "subdir": "osx-64",
   "timestamp": 1683113010463,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/osx-64/xz-5.4.2-h6c40b1e_0.conda",
   "version": "5.4.2"
 }

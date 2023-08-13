@@ -6,8 +6,7 @@
   "depends": [
     "ncurses >=6.1,<7.0a0"
   ],
-  "extracted_package_dir": "/Users/yshaik/opt/anaconda3/pkgs/readline-7.0-h1de35cc_5",
-  "features": "",
+  "extracted_package_dir": "/Users/yshaik/anaconda3/pkgs/readline-7.0-h1de35cc_5",
   "files": [
     "include/readline/chardefs.h",
     "include/readline/history.h",
@@ -54,12 +53,12 @@
   "legacy_bz2_size": 402747,
   "license": "GPL-3.0",
   "link": {
-    "source": "/Users/yshaik/opt/anaconda3/pkgs/readline-7.0-h1de35cc_5",
+    "source": "/Users/yshaik/anaconda3/pkgs/readline-7.0-h1de35cc_5",
     "type": 1
   },
   "md5": "2e427f7a248746a430be98e967bafd43",
   "name": "readline",
-  "package_tarball_full_path": "/Users/yshaik/opt/anaconda3/pkgs/readline-7.0-h1de35cc_5.conda",
+  "package_tarball_full_path": "/Users/yshaik/anaconda3/pkgs/readline-7.0-h1de35cc_5.conda",
   "paths_data": {
     "paths": [
       {
@@ -351,7 +350,6 @@
   "size": 323428,
   "subdir": "osx-64",
   "timestamp": 1535476075762,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/osx-64/readline-7.0-h1de35cc_5.conda",
   "version": "7.0"
 }

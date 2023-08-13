@@ -6,8 +6,7 @@
   "depends": [
     "ncurses >=6.3,<7.0a0"
   ],
-  "extracted_package_dir": "/Users/yshaik/opt/anaconda3/pkgs/libedit-3.1.20221030-h6c40b1e_0",
-  "features": "",
+  "extracted_package_dir": "/Users/yshaik/anaconda3/pkgs/libedit-3.1.20221030-h6c40b1e_0",
   "files": [
     "include/editline/readline.h",
     "include/histedit.h",
@@ -64,12 +63,12 @@
   "license": "BSD-2-Clause",
   "license_family": "BSD",
   "link": {
-    "source": "/Users/yshaik/opt/anaconda3/pkgs/libedit-3.1.20221030-h6c40b1e_0",
+    "source": "/Users/yshaik/anaconda3/pkgs/libedit-3.1.20221030-h6c40b1e_0",
     "type": 1
   },
   "md5": "d05611d2a89ad339b89c029bc34687df",
   "name": "libedit",
-  "package_tarball_full_path": "/Users/yshaik/opt/anaconda3/pkgs/libedit-3.1.20221030-h6c40b1e_0.conda",
+  "package_tarball_full_path": "/Users/yshaik/anaconda3/pkgs/libedit-3.1.20221030-h6c40b1e_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -378,7 +377,6 @@
   "size": 158764,
   "subdir": "osx-64",
   "timestamp": 1670840154554,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/osx-64/libedit-3.1.20221030-h6c40b1e_0.conda",
   "version": "3.1.20221030"
 }

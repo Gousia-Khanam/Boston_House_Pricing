@@ -6,8 +6,7 @@
   "depends": [
     "ca-certificates"
   ],
-  "extracted_package_dir": "/Users/yshaik/opt/anaconda3/pkgs/openssl-1.0.2u-h1de35cc_0",
-  "features": "",
+  "extracted_package_dir": "/Users/yshaik/anaconda3/pkgs/openssl-1.0.2u-h1de35cc_0",
   "files": [
     "bin/c_rehash",
     "bin/openssl",
@@ -122,12 +121,12 @@
   "license": "OpenSSL",
   "license_family": "Apache",
   "link": {
-    "source": "/Users/yshaik/opt/anaconda3/pkgs/openssl-1.0.2u-h1de35cc_0",
+    "source": "/Users/yshaik/anaconda3/pkgs/openssl-1.0.2u-h1de35cc_0",
     "type": 1
   },
   "md5": "37bb017b09b0987213ccee08d5b4a175",
   "name": "openssl",
-  "package_tarball_full_path": "/Users/yshaik/opt/anaconda3/pkgs/openssl-1.0.2u-h1de35cc_0.conda",
+  "package_tarball_full_path": "/Users/yshaik/anaconda3/pkgs/openssl-1.0.2u-h1de35cc_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -921,7 +920,6 @@
   "size": 2056897,
   "subdir": "osx-64",
   "timestamp": 1576852444363,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/osx-64/openssl-1.0.2u-h1de35cc_0.conda",
   "version": "1.0.2u"
 }

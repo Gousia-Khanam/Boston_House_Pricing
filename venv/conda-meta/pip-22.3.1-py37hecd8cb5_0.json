@@ -8,8 +8,7 @@
     "setuptools",
     "wheel"
   ],
-  "extracted_package_dir": "/Users/yshaik/opt/anaconda3/pkgs/pip-22.3.1-py37hecd8cb5_0",
-  "features": "",
+  "extracted_package_dir": "/Users/yshaik/anaconda3/pkgs/pip-22.3.1-py37hecd8cb5_0",
   "files": [
     "bin/pip",
     "bin/pip3",
@@ -1007,12 +1006,12 @@
   "license": "MIT",
   "license_family": "MIT",
   "link": {
-    "source": "/Users/yshaik/opt/anaconda3/pkgs/pip-22.3.1-py37hecd8cb5_0",
+    "source": "/Users/yshaik/anaconda3/pkgs/pip-22.3.1-py37hecd8cb5_0",
     "type": 1
   },
   "md5": "dc587ad4fb5bba5aa56d75093d2b3a76",
   "name": "pip",
-  "package_tarball_full_path": "/Users/yshaik/opt/anaconda3/pkgs/pip-22.3.1-py37hecd8cb5_0.conda",
+  "package_tarball_full_path": "/Users/yshaik/anaconda3/pkgs/pip-22.3.1-py37hecd8cb5_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -7950,7 +7949,6 @@
   "size": 2831281,
   "subdir": "osx-64",
   "timestamp": 1670597493971,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/osx-64/pip-22.3.1-py37hecd8cb5_0.conda",
   "version": "22.3.1"
 }

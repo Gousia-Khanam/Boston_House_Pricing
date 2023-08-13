@@ -6,8 +6,7 @@
   "depends": [
     "libcxx >=10.0.0"
   ],
-  "extracted_package_dir": "/Users/yshaik/opt/anaconda3/pkgs/libffi-3.2.1-h0a44026_1007",
-  "features": "",
+  "extracted_package_dir": "/Users/yshaik/anaconda3/pkgs/libffi-3.2.1-h0a44026_1007",
   "files": [
     "include/ffi.h",
     "include/ffitarget.h",
@@ -26,12 +25,12 @@
   "legacy_bz2_size": 47600,
   "license": "Custom",
   "link": {
-    "source": "/Users/yshaik/opt/anaconda3/pkgs/libffi-3.2.1-h0a44026_1007",
+    "source": "/Users/yshaik/anaconda3/pkgs/libffi-3.2.1-h0a44026_1007",
     "type": 1
   },
   "md5": "51c3b7fcb871e4ba715c41b4141873cb",
   "name": "libffi",
-  "package_tarball_full_path": "/Users/yshaik/opt/anaconda3/pkgs/libffi-3.2.1-h0a44026_1007.conda",
+  "package_tarball_full_path": "/Users/yshaik/anaconda3/pkgs/libffi-3.2.1-h0a44026_1007.conda",
   "paths_data": {
     "paths": [
       {
@@ -122,7 +121,6 @@
   "size": 44208,
   "subdir": "osx-64",
   "timestamp": 1601368126592,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/osx-64/libffi-3.2.1-h0a44026_1007.conda",
   "version": "3.2.1"
 }
